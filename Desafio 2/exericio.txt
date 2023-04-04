@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Resolução do Exercicio 1049 do Beecrowd.
+=======
+Resolução do Exercicio 1049 do Beecrowd.
+>>>>>>> 94a2469bce280716eb7fdef3d5ed20324d3b73e5
